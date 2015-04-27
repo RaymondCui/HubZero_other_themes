@@ -20,7 +20,7 @@
   margin-bottom: 10px;
   margin-top: 0px;
   font-weight: 200;
-  color: rgb(0, 117, 132);
+  color: rgb(173, 58, 44);
 }
 
 .ielab-heading h2 {
@@ -48,8 +48,8 @@
 }
 
 #ielab-welcome a {
-  color: rgb(0, 171, 255);
-  border-bottom: 1px dotted rgb(0, 171, 255);
+  color: rgb(173, 58, 44);
+  border-bottom: 1px dotted rgb(173, 58, 44);
   text-shadow: none;
 }
 

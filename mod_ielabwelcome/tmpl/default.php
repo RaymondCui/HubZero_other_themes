@@ -13,11 +13,11 @@ defined('_JEXEC') or die; ?>
 
 <div id="ielab-welcome" class="ielab-welcome">
         <div class="ielab-heading">
-		  <h1>Genomics Virtual Lab</h1>
-		  <h2>A virtual laboratory for genomics research and training. </h2>
+		  <h1>IELab</h1>
+		  <h2>A virtual laboratory for Industrial Ecology research and training. </h2>
         </div>
         <div class="ielab-img-wrapper">
-		  <img src="<?php echo JURI::root();?>modules/mod_ielabwelcome/tmpl/images/splash.jpg" alt="IELab Splash Image" />
+		  <img src="<?php echo JURI::root();?>modules/mod_ielabwelcome/tmpl/images/splash2.png" alt="IELab Splash Image" />
 		</div>
 	    <div class="ielab-row" style="min-height: 1px;">
 		  <div class="ielab-col-md-6 ielab-col">

@@ -36,3 +36,5 @@ Login to the Administrator Dashboard at https://130.56.249.170/administrator/ th
 At this point refesh the user home page should show the new IELab home page.
 
      
+     #d7eac7 (Green)
+     #ad3a2c (Red)

@@ -9,7 +9,7 @@
 	<authorUrl>http://www.v3.org.au/</authorUrl>
 	<copyright>Copyright April, 2015 by V3 Alliance</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GPLv2</license>
-    <description>An Genomics Virtual Laboratory welcome displaying introductory message, splash image etc...</description>
+    <description>An Industrial Ecology Laboratory welcome displaying introductory message, splash image etc...</description>
     <files>
         <filename module="mod_ielabwelcome">mod_ielabwelcome.php</filename>
         <filename>index.html</filename>
