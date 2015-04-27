@@ -1,17 +1,17 @@
 <?php
 /**
- * Helper class for GVL Footer module
+ * Helper class for IELab Footer module
  * 
- * @package    GVL
+ * @package    IELab
  * @subpackage Modules
- * @link  http://gvl.edu.au/
+ * @link  http://ielab.edu.au/
  * @license        GNU/GPL, see LICENSE.php
- * mod_gvlfooter is free software. This version may have been modified pursuant
+ * mod_ielabfooter is free software. This version may have been modified pursuant
  * to the GNU General Public License, and as distributed it includes or
  * is derivative of works licensed under the GNU General Public License or
  * other free or open source software licenses.
  */
-class ModGVLFooterHelper
+class ModIELabFooterHelper
 {
     /**
      * Retrieves the footer content

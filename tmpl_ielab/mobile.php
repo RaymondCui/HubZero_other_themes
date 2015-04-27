@@ -35,7 +35,7 @@ defined('_JEXEC') or die('Restricted access');
 $config = JFactory::getConfig();
 
 //define tempate
-$this->template = 'gvl2015';
+$this->template = 'ielab2015';
 
 //get device info
 $browser = new \Hubzero\Browser\Detector();
@@ -60,7 +60,7 @@ $joomlaRelease = 'joomla' . $joomlaVersion->RELEASE;
 		<!--[if lt IE 9]>
 			<script type="text/javascript" src="<?php echo $this->baseurl; ?>/templates/<?php echo $this->template; ?>/js/html5.js"></script>
 		<![endif]-->
-			<!-- TODO: Need a mobile version of gvl.css! -->
+			<!-- TODO: Need a mobile version of ielab.css! -->
  		</head>
 	<body>
 		<jdoc:include type="modules" name="notices" />

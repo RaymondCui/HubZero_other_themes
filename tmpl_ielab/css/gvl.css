@@ -1,7 +1,7 @@
 /*
 
   -- -- -- -- -- -- --
-  GVL specific CSS.
+  IELab specific CSS.
   Over-riding items in main.css
   -- -- -- -- -- -- --
 
@@ -24,8 +24,8 @@ body {
   width: 250px;
   height: 60px;
   padding: 1px 10px 1px 110px;
-  /* background: transparent url(../images/logos/gvl-green.png) no-repeat left 0px top 0px; */
-  background: transparent url(../images/logos/gvl-green-h70px.png) no-repeat left 0px top 0px;
+  /* background: transparent url(../images/logos/ielab-green.png) no-repeat left 0px top 0px; */
+  background: transparent url(../images/logos/ielab-green-h70px.png) no-repeat left 0px top 0px;
   display: inline-block;
   text-indent: 0%;
   white-space: nowrap;

@@ -19,7 +19,7 @@
 -->
 
 <install type="template" version="1.5">
-	<name>GVL2015</name>
+	<name>IELab2015</name>
 	<creationDate>23/04/2014</creationDate>
 	<author>Richard Rothwell</author>
 	<authorEmail>rrothwell@v3.org.au</authorEmail>
@@ -43,11 +43,11 @@
 		<filename>template_thumbnail.png</filename>
 	</files>
 	<languages>
-		<language tag="en-GB">language/en-GB/en-GB.tpl_gvl2015.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.tpl_ielab2015.ini</language>
 	</languages>
 	<administration>
 		<languages folder="admin">
-			<language tag="en-GB">language/en-GB/en-GB.tpl_gvl2015.ini</language>
+			<language tag="en-GB">language/en-GB/en-GB.tpl_ielab2015.ini</language>
 		</languages>
 	</administration>
 	<positions>
