@@ -11,18 +11,17 @@
  * is derivative of works licensed under the GNU General Public License or
  * other free or open source software licenses.
  */
- 
+
 // No direct access
-defined('_JEXEC' ) or die;
- 
- 
+defined ( '_JEXEC' ) or die ();
+
 // Not using the computed footer stuff yet.
 
 // Include the syndicate functions only once
-//require_once dirname(__FILE__) . '/helper.php';
+// require_once dirname(__FILE__) . '/helper.php';
 // $footer = modIELabFooterHelper::getFooter($params);
 
-// Load the template to render the HTML.	
-require(JModuleHelper::getLayoutPath('mod_marvlfooter'));
+// Load the template to render the HTML.
+require (JModuleHelper::getLayoutPath ( 'mod_marvlfooter' ));
 
 ?>

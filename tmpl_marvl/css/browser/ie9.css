@@ -4,15 +4,16 @@
 	IE 9 Windows hacks
 	-- -- -- -- -- -- --
 */
-	#splash .inner-wrap {
-		background: transparent url("/templates/marvl2015/images/layout/glass-stripes.png");
-	}
-	#splash .inner-wrap .inner {
-		background: transparent url("/templates/marvl2015/images/layout/glass.png");
-	}
-	input[type=text],
-	input[type=password],
-	input[type=email],
-	textarea {
-		line-height: 1;
-	}
+#splash .inner-wrap {
+	background: transparent
+		url("/templates/marvl2015/images/layout/glass-stripes.png");
+}
+
+#splash .inner-wrap .inner {
+	background: transparent
+		url("/templates/marvl2015/images/layout/glass.png");
+}
+
+input[type=text], input[type=password], input[type=email], textarea {
+	line-height: 1;
+}
