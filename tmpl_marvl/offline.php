@@ -14,7 +14,7 @@ defined( '_JEXEC' ) or die( 'Restricted access' );
 
 $config = JFactory::getConfig();
 
-$this->template = 'ielab2015';
+$this->template = 'marvl2015';
 
 $browser = new \Hubzero\Browser\Detector();
 $cls = array(
@@ -36,7 +36,7 @@ $this->setTitle($config->getValue('config.sitename') . ' - ' . JText::_('Down fo
 
 		<jdoc:include type="head" />
 		
-		<!-- TODO: Do we need an offline version of ielab.css? -->
+		<!-- TODO: Do we need an offline version of marvl.css? -->
 		<link rel="stylesheet" type="text/css" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/css/offline.css" />
 	</head>
 	<body>

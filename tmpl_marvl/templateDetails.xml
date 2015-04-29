@@ -43,11 +43,11 @@
 		<filename>template_thumbnail.png</filename>
 	</files>
 	<languages>
-		<language tag="en-GB">language/en-GB/en-GB.tpl_ielab2015.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.tpl_marvl2015.ini</language>
 	</languages>
 	<administration>
 		<languages folder="admin">
-			<language tag="en-GB">language/en-GB/en-GB.tpl_ielab2015.ini</language>
+			<language tag="en-GB">language/en-GB/en-GB.tpl_marvl2015.ini</language>
 		</languages>
 	</administration>
 	<positions>

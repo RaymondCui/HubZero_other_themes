@@ -11,7 +11,7 @@
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GPLv2</license>
     <description>An Genomics Virtual Laboratory footer displaying acknowledgements etc...</description>
     <files>
-        <filename module="mod_ielabfooter">mod_ielabfooter.php</filename>
+        <filename module="mod_marvlfooter">mod_marvlfooter.php</filename>
         <filename>index.html</filename>
         <filename>helper.php</filename>
         <folder>tmpl</folder>
