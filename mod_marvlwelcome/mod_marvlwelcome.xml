@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="2.5" client="site" method="upgrade">
-	<name>IELab Welcome</name>
+	<name>MARVL Welcome</name>
 	<version>0.1.0</version>
 	<creationDate>17/04/2014</creationDate>
 	<version>0.1.0</version>

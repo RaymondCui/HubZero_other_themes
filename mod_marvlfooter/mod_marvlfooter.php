@@ -1,8 +1,8 @@
 <?php
 /**
- * IELab Footer Module Entry Point
+ * MARVL Footer Module Entry Point
  * 
- * @package    IELab
+ * @package    MARVL
  * @subpackage Modules
  * @link http://marvl.edu.au/
  * @license        GNU/GPL, see LICENSE.php
@@ -19,7 +19,7 @@ defined ( '_JEXEC' ) or die ();
 
 // Include the syndicate functions only once
 // require_once dirname(__FILE__) . '/helper.php';
-// $footer = modIELabFooterHelper::getFooter($params);
+// $footer = modMARVLFooterHelper::getFooter($params);
 
 // Load the template to render the HTML.
 require (JModuleHelper::getLayoutPath ( 'mod_marvlfooter' ));

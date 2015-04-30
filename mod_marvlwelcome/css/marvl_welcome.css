@@ -1,104 +1,95 @@
-
 #marvl-welcome {
+	
 }
 
 #marvl-welcome img {
-  vertical-align: middle;
-  border: 0;
-  padding: 5px 5px 5px 5px;
+	vertical-align: middle;
+	border: 0;
+	padding: 5px 5px 5px 5px;
 }
 
-
 .marvl-heading {
-  width: 50%;
-  float: left;
+	width: 50%;
+	float: left;
 }
 
 .marvl-heading h1 {
-  font-size: 40px;
-  line-height: 50px;
-  margin-bottom: 10px;
-  margin-top: 0px;
-  font-weight: 200;
-  color: rgb(173, 58, 44);
+	font-size: 40px;
+	line-height: 50px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	font-weight: 200;
+	color: rgb(173, 58, 44);
 }
 
 .marvl-heading h2 {
-  font-size: 22px;
-  line-height: 30px;
-  color: #333;
-  font-weight: 300;
+	font-size: 22px;
+	line-height: 30px;
+	color: #333;
+	font-weight: 300;
 }
 
 .marvl-heading h4 {
-  font-weight: 300;
-  font-size: 20px;
-  line-height: 25px;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 25px;
 }
-
-
 
 /* Control the global splash image scaling. */
 /* Individual logos sometimes are tweak-scaled by a width style in the img tag. */
 .marvl-img-wrapper {
-  width: 50%;
-  margin: 0 auto; /* Allow the div to centre in its containing div. */
-  text-align: center;
-  float: right;
+	width: 50%;
+	margin: 0 auto; /* Allow the div to centre in its containing div. */
+	text-align: center;
+	float: right;
 }
 
 #marvl-welcome a {
-  color: rgb(173, 58, 44);
-  border-bottom: 1px dotted rgb(173, 58, 44);
-  text-shadow: none;
+	color: rgb(173, 58, 44);
+	border-bottom: 1px dotted rgb(173, 58, 44);
+	text-shadow: none;
 }
 
 #marvl-welcome a:hover {
-  color: #fff;
-  border-bottom: 1px solid #fff;
+	color: #fff;
+	border-bottom: 1px solid #fff;
 }
 
 .marvl-row {
-  clear: both;
-  /* Needed to ensure that first row is not set to zero */
-  /* If it is the contents overflow the containing div */
-  min-height: 100px; 
+	clear: both;
+	/* Needed to ensure that first row is not set to zero */
+	/* If it is the contents overflow the containing div */
+	min-height: 100px;
 }
 
 .marvl-col {
-  text-align: center; 
-  float: left;
-  position: relative;
-  min-height: 1px;
-  /* Setting the padding to zero ensures we can fit the column divs 
+	text-align: center;
+	float: left;
+	position: relative;
+	min-height: 1px;
+	/* Setting the padding to zero ensures we can fit the column divs 
   into the row without wrapping. */
-  padding-right: 0px;
-  padding-left: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
 }
 
 .marvl-col-md-2 {
- width: 16.666666666666664%;
+	width: 16.666666666666664%;
 }
 
 .marvl-col-md-3 {
-  width: 25%;
+	width: 25%;
 }
 
 .marvl-col-md-9 {
-  width: 75%;
+	width: 75%;
 }
 
 .marvl-col-md-6 {
-  width: 50%;
+	width: 50%;
 }
 
 .marvl-introduction {
-  text-align: left;
-  width: 100%;
+	text-align: left;
+	width: 100%;
 }
-
-
-
-
-
-

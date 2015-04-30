@@ -1,43 +1,42 @@
 /*
 
   -- -- -- -- -- -- --
-  IELab specific CSS.
+  MARVL specific CSS.
   Over-riding items in main.css
   -- -- -- -- -- -- --
 
 */
-
 body {
 	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #masthead {
-  background-color: rgb(173, 58, 44);
+	background-color: rgb(11, 110, 135);
 }
 
 #masthead h1.brand {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-right: 0px;
-  margin-left: 10px;
-  width: 250px;
-  height: 68px;
-  padding: 1px 10px 1px 110px;
-  background: transparent url(../images/logos/marvl_logo_large_red_green_70pxh.jpg) no-repeat left 0px top 0px;
-  display: inline-block;
-  text-indent: 0%;
-  white-space: nowrap;
-  overflow: visible;
-  text-align: left;
-  text-shadow: none;
-  font-weight: 200;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 10px;
+	width: 250px;
+	height: 68px;
+	padding: 1px 10px 1px 80px;
+	background: transparent
+		url(../images/logos/marvl_70pxh.png) no-repeat
+		left 0px top 3px;
+	display: inline-block;
+	text-indent: 0%;
+	white-space: nowrap;
+	overflow: visible;
+	text-align: left;
+	text-shadow: none;
+	font-weight: 200;
 }
 
-#masthead a, 
-a:active, 
-a:visited {
+#masthead a, a:active, a:visited {
 	text-decoration: none;
-	color: #d7eac7;
+	color: #94daeb;
 	border-bottom: 1px dotted #98cab1;
 }
 
@@ -47,109 +46,105 @@ a:hover {
 }
 
 #masthead h1 {
-  font-size: 20px;
-  text-transform: none;
-  border-right: 1px dashed #d7eac7;
-  color: #d7eac7;
+	font-size: 20px;
+	text-transform: none;
+	border-right: 1px dashed #94daeb;
+	color: #94daeb;
 }
 
+#masthead h1 a {
+	padding: 0.7em 0 0.4em 0;
+}
+
+
+
 #masthead span.sub-head {
- font-size: 12px;	
+	font-size: 12px;
 }
 
 #masthead h1 a:hover {
-  color: #d7eac7;
+	color: #94daeb;
 }
 
-
 #masthead div.inner {
-  background-color: rgb(173, 58, 44);
+	background-color: rgb(11, 110, 135);
 }
 
 #top {
-  background: #d7eac7;
+	background: #94daeb;
 }
 
 #splash {
-  background: #d7eac7;
+	background: #94daeb;
 }
 
 #splash .inner-wrap .inner {
-  /* background: #d7eac7; */
-  background: #d7eac7;
+	/* background: #94daeb; */
+	background: #94daeb;
 }
 
 #splash .inner-wrap .inner .wrap {
-  background: transparent;
+	background: transparent;
 }
 
 /* HubZero logo in welcome block. */
-small.welcome-after, 
-#welcome:after {
-  color: #FFF;
+small.welcome-after, #welcome:after {
+	color: #FFF;
 }
 
 /* HubZero text in welcome block. */
 #welcome h2 {
-  color: #000;
+	color: #000;
 }
 
 #welcome {
-  color: #000;
+	color: #000;
 }
 
 #welcome a {
-  color: rgb(104, 77, 10);
-  border-bottom: 1px dotted rgb(104, 77, 10);
+	color: rgb(104, 77, 10);
+	border-bottom: 1px dotted rgb(104, 77, 10);
 }
 
 #welcome a:hover {
-  color: #fff;
-  border-bottom: 1px solid #fff;
+	color: #fff;
+	border-bottom: 1px solid #fff;
 }
 
 /* Elements */
 
 /* Headers */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: 'Droid Serif', Georgia, 'Times New Roman', serif;
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Droid Serif', Georgia, 'Times New Roman', serif;
 }
 
-
-a, 
-a:active, 
-a:visited {
-  text-decoration: none;
-  color: rgb(0, 171, 255);
-  border-bottom: 1px dotted rgb(0, 171, 255);
+a, a:active, a:visited {
+	text-decoration: none;
+	color: rgb(0, 171, 255);
+	border-bottom: 1px dotted rgb(0, 171, 255);
 }
 
 a:hover {
-  color: #0D6B9F;
-  border-bottom: 1px solid #0D6B9F;
+	color: #0D6B9F;
+	border-bottom: 1px solid #0D6B9F;
 }
 
-  /* Events */
+/* Events */
 .events-section .mod_events_calendar caption {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #nav {
-  margin: 5px;
+	margin: 5px;
 }
 
 #nav ul.menu a {
-  color: #d7eac7;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  border-right: 1px dashed #d7eac7;
+	color: #94daeb;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	border-right: 1px dashed #94daeb;
 }
 
 #account li>a {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }

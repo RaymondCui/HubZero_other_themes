@@ -1,8 +1,8 @@
 <?php
 /**
- * Helper class for IELab Welcome module
+ * Helper class for MARVL Welcome module
  * 
- * @package    IELab
+ * @package    MARVL
  * @subpackage Modules
  * @link  http://marvl.edu.au/
  * @license        GNU/GPL, see LICENSE.php
@@ -11,7 +11,7 @@
  * is derivative of works licensed under the GNU General Public License or
  * other free or open source software licenses.
  */
-class ModIELabWelcomeHelper {
+class ModMARVLWelcomeHelper {
 	/**
 	 * Retrieves the welcome content
 	 *

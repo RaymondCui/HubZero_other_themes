@@ -25,11 +25,11 @@ JHTML::stylesheet ( 'marvl_footer.css', 'modules/mod_marvlfooter/css/' );
 			</div>
 			<div class="marvl-col-md-9 marvl-col">
 				<div class="marvl-acknowledgement">
-					The University of Sydney is proud to be in partnership with, and
+					The University of Tasmania is proud to be in partnership with, and
 					acknowledges funding from, the National eResearch Collaboration
 					Tools and Resources (NeCTAR) project (<a
 						href="http://www.nectar.org.au">http://www.nectar.org.au</a>) to
-					develop IELab. NeCTAR is an Australian Government project conducted
+					develop MARVL. NeCTAR is an Australian Government project conducted
 					as part of the Super Science initiative and financed by the
 					Education Investment Fund.
 				</div>

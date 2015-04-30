@@ -14,14 +14,14 @@ JHTML::stylesheet ( 'marvl_welcome.css', 'modules/mod_marvlwelcome/css/' );
 
 <div id="marvl-welcome" class="marvl-welcome">
 	<div class="marvl-heading">
-		<h1>IELab</h1>
+		<h1>MARVL</h1>
 		<h2>A virtual laboratory for Industrial Ecology research and training.
 		</h2>
 	</div>
 	<div class="marvl-img-wrapper">
 		<img
 			src="<?php echo JURI::root();?>modules/mod_marvlwelcome/tmpl/images/splash9.png"
-			alt="IELab Splash Image" />
+			alt="MARVL Splash Image" />
 	</div>
 	<div class="marvl-row" style="min-height: 1px;">
 		<div class="marvl-col-md-6 marvl-col">

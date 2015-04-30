@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="2.5" client="site" method="upgrade">
-	<name>IELab Footer</name>
+	<name>MARVL Footer</name>
 	<version>0.1.0</version>
 	<creationDate>14/04/2014</creationDate>
 	<version>0.1.0</version>
@@ -9,7 +9,7 @@
 	<authorUrl>http://www.v3.org.au/</authorUrl>
 	<copyright>Copyright April, 2015 by V3 Alliance</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GPLv2</license>
-	<description>An Genomics Virtual Laboratory footer displaying
+	<description>An Marine Science Virtual Laboratory footer displaying
 		acknowledgements etc...</description>
 	<files>
 		<filename module="mod_marvlfooter">mod_marvlfooter.php</filename>
