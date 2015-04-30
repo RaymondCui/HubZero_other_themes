@@ -2,14 +2,14 @@
 <extension type="module" version="2.5" client="site" method="upgrade">
 	<name>MARVL Welcome</name>
 	<version>0.1.0</version>
-	<creationDate>17/04/2014</creationDate>
+	<creationDate>30/04/2014</creationDate>
 	<version>0.1.0</version>
 	<author>Richard Rothwell</author>
 	<authorEmail>rrothwell@v3.org.au</authorEmail>
 	<authorUrl>http://www.v3.org.au/</authorUrl>
 	<copyright>Copyright April, 2015 by V3 Alliance</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GPLv2</license>
-	<description>An Industrial Ecology Laboratory welcome displaying
+	<description>An Marine Science Laboratory welcome displaying
 		introductory message, splash image etc...</description>
 	<files>
 		<filename module="mod_marvlwelcome">mod_marvlwelcome.php</filename>

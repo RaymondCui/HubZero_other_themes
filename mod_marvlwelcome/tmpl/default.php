@@ -15,7 +15,7 @@ JHTML::stylesheet ( 'marvl_welcome.css', 'modules/mod_marvlwelcome/css/' );
 <div id="marvl-welcome" class="marvl-welcome">
 	<div class="marvl-heading">
 		<h1>MARVL</h1>
-		<h2>A virtual laboratory for Industrial Ecology research and training.
+		<h2>A Virtual Laboratory for Marine Science research and training.
 		</h2>
 	</div>
 	<div class="marvl-img-wrapper">
