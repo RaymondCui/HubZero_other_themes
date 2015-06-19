@@ -51,6 +51,7 @@ a:hover {
 #masthead h1 {
   font-size: 20px;
   text-transform: none;
+  border-right: none;
 }
 
 #masthead span.sub-head {
@@ -146,11 +147,13 @@ a:hover {
   color: rgb(255, 255, 255);
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
-  border-right: 1px dashed #ddd;
+  border-right: none;
 }
 
 #account li>a {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #FFFF00;
+  border-left: none;
 }
 
 /* ------------------------------------- */
