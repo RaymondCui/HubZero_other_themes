@@ -7,8 +7,8 @@ These extensions apply to HubZero version 1.3, which in turn is based on Joomla 
 ## Template
 
 This template is used for the entrance and other pages of the HubZero instance used by VU Labs.
-The style (colour palette and fonts) follow the existing Alveo web site appearance at http://vulabs.net/.
-This template is based of the hubbasic2013 template which was modified to the styling guide from Victoria University.
+The style (colour palette and fonts) follow the styling guide from Victoria University.
+This template design is based of the hubbasic2013 template.
 
 To use this template, git export the contents into a directory called vu_labs, or whatever, 
 and then zip the directory and its contents into the file vu_labs.zip.
