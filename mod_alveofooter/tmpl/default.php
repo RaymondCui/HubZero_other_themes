@@ -31,7 +31,7 @@ defined('_JEXEC') or die; ?>
 		  </div>
 		</div>
     </div class="alveo-sponsor">
-    <div id="alveo-collaborators" class="alveo-collaborators">
+   <!-- <div id="alveo-collaborators" class="alveo-collaborators">
 		<div class="alveo-row">
 		  <div class="alveo-col-md-2 alveo-col">
 		  	<div class="alveo-logo-wrapper">
@@ -131,7 +131,7 @@ defined('_JEXEC') or die; ?>
 	        <br/>
 		  </div>
 		</div>
-    </div class="alveo-collaborators">
+    </div class="alveo-collaborators"> Delete the logos from footer--> 
 	<br/>
 </div class="alveo_footer">
 
