@@ -31,7 +31,7 @@ defined('_JEXEC') or die; ?>
 		  </div>
 		</div>
     </div class="ielab-sponsor">
-    <div id="ielab-collaborators" class="ielab-collaborators">
+    <!--<div id="ielab-collaborators" class="ielab-collaborators">
 		<div class="ielab-row">
 		  <div class="ielab-col-md-2 ielab-col">
 		  	<div class="ielab-logo-wrapper">
@@ -131,7 +131,7 @@ defined('_JEXEC') or die; ?>
 	        <br/>
 		  </div>
 		</div>
-    </div class="ielab-collaborators">
+    </div class="ielab-collaborators">-->
 	<br/>
 </div class="ielab_footer">
 
